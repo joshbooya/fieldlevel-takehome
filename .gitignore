@@ -6,3 +6,4 @@ Exercise-complete.ipynb
 .DS_Store
 activity_data.csv
 email_data.csv
+*.xlsx
